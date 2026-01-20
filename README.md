@@ -50,8 +50,10 @@ $$\frac{\partial Loss}{\partial W_1} = X^T \cdot dZ_1$$
    git clone [https://github.com/mertiodas/vienna-airbnb-price-prediction.git](https://github.com/mertiodas/vienna-airbnb-price-prediction.git)
    cd vienna-airbnb-price-prediction
 2. **Install Dependencies:**
+   ```bash
    pip install numpy pandas matplotlib scikit-learn
-3. **Execute the Project:**
+4. **Execute the Project:**
+   ```bash
    python main.py
 
 **Results**
